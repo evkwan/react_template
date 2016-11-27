@@ -1,7 +1,7 @@
 {
-  "name": "reactpages",
+  "name": "app_template",
   "version": "1.0.0",
-  "description": "page transitions with react",
+  "description": "basic react app template",
   "main": "index.js",
  "scripts": {
     "production": "webpack -p",

@@ -9,7 +9,7 @@ class HelloWorld extends Component {
 		return (
 			<div>
 				<h1>
-					Hello World to EV's page!
+					Hello World!
 				</h1>
 			</div>
 		)
