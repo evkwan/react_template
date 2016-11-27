@@ -13,6 +13,11 @@ The app uses:
 
 
 # Running the App
+From the root of the project folder, install the required npm packages by running:
+```
+npm install
+```
+
 For the first time, run 
 ```
 npm run production
@@ -24,6 +29,7 @@ After that, run
 npm run start
 ```
 This will run the webpack server and serve up the app.
+Any changes to the code should be reflected by refreshing the page.
 
 
 # Acknowledgement
